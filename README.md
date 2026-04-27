@@ -1,6 +1,4 @@
-<p align="center">
-<img align='center' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="250" height="250">
-  </p>
+Hi there
 
 <!--
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Julian 
